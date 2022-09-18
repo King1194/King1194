@@ -3,7 +3,7 @@
 - 🙌 I’m currently learning DS, ML and Blockchain
 - ✔ I’m looking to collaborate on frontend projects
 - 🎓I'm currently pursuing my bachelors' degree in Computer Science
-- 📫 How to reach me 📧ayushking1194@gmail.com or ✨www.linkedin.com/in/ayush-srivastava-4470a5214/
+- 📫 How to reach me 📧ayushking1194@gmail.com or ✨ www.linkedin.com/in/ayush-srivastava-4470a5214/
 
 <!---
 King1194/King1194 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
