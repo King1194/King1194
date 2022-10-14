@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush aka @King1194
 - 🤖 I'm a Java programmer, a frontend developer and a tech enthusiast! 
-- 🙌 I’m currently learning DS, ML and Blockchain
-- ✔ I’m looking to collaborate on frontend projects
+- 🙌 I’m currently learning Flutter and Blockchain
+- ✔ I’m looking to collaborate on frontend web development and Tkinter projects
 - 🎓I'm currently pursuing my bachelors' degree in Computer Science
 - 📫 How to reach me 📧ayushking1194@gmail.com or ✨ www.linkedin.com/in/ayush-srivastava-4470a5214/
 
